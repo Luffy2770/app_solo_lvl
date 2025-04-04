@@ -12,9 +12,6 @@
     "react": "latest",
     "react-dom": "latest",
     "tailwindcss": "^3.0.0",
-    "@/components/ui/card": "workspace:*",
-    "@/components/ui/progress": "workspace:*",
-    "@/components/ui/button": "workspace:*"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.0",
